@@ -134,6 +134,11 @@ form label, form legend{
 	margin: 0 0 10px;
 
 }
+#identificação{
+
+margin-top: 2em;
+
+}
 
 .inputPadrão{
 	display: block;
@@ -177,7 +182,7 @@ form label, form legend{
 
 }
 table{
-	margin: 20px 0 40px;
+	margin: 40px auto ;
 }
 
 thead{
